@@ -1,4 +1,4 @@
 {
-  "noIndicator": true,
-  "inReview": true
+  "noIndicator": false,
+  "inReview": false
 }
